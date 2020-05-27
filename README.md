@@ -1,6 +1,6 @@
-## PERFORMING UNIX SHELL EXERCICES
+## PERFORMING UNIX SHELL EXERCISES
 
-Five exercices using Unix Shell and elementary blocks
+Five exercises using Unix Shell and elementary blocks <br/>
 Source : https://learnshell.org
 
 ### variables.sh
